@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, eu sou o Lucas 👋
 
 <!--
 **llucascpereira/llucascpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Sou desenvolvimento web com foco em Front End! Apesar de entender um pouco das outras áreas, como UI/UX, Back End, Banco de dados... Além de conhecimentos em HTML, CSS, JavaScript, Python, Java e Git, entre outros.
+- Atualmente, estou focando meus estudos no PSCPP (Processo Seletivo à Categoria de Praticante de Prático) e na melhoria do meu canal na Twitch. Também continuo estudando programação, desenvolvendo um site pessoal no qual, de vez em quando, adiciono funcionalidades que fazem sentido para meus estudos.
+- No passado, dei aulas de programação e robótica para crianças de 6 a 15 anos. Também desenvolvi 5 sites e trabalhei bastante com helpdesk
+- Gosto muito de trabalhar com Front End e estou sempre procurando melhorar. Estou disponível para oportunidades de trabalho ou parcerias.
